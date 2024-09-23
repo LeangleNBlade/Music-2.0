@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/head::head">
+
+</head>
+<body >
+
+<div th:insert="fragments/header::header"></div>
+      <!-- banner section end -->
+      <div class="banner_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-6">
+                  <div class="banner_taital">Music <br>Effervescent Empathy Touching  </div>
+                  <p class="banner_text">We will bring you through all your feeling.<br> Welcome to Musik Garden. </p>
+                  <div class="see_bt"><a href="#">BẮT ĐẦU</a></div>
+               </div>
+               <div class="col-md-6">
+                  <div class="play_icon"><a href="#"><img th:src="@{../images/play-icon.png}"></a></div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- banner section end -->
+      <!-- arrival section start -->
+      <div id="login-div">
+</div>
+      <div class="arrival_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-sm-6 col-lg-4">
+                  <div class="image_1">
+                     <h2 class="jesusroch_text">Â M N H Ạ C</h2>
+                     <p class="movie_text">Xoa dịu và kết nối</p>
+                  </div>
+               </div>
+               <div class="col-sm-6 col-lg-4">
+                  <div class="image_2">
+                     <h2 class="jesusroch_text">K Ĩ T H U Ậ T S Ố</h2>
+                     <p class="movie_text">Bên bạn mọi lúc</p>
+                  </div>
+               </div>
+               <div class="col-sm-8 col-lg-4">
+                  <h1 class="arrival_text">WEBSITE NGHE NHẠC CHẤT LƯỢNG</h1>
+                 
+                  <p class="long_text">Được đánh giá cao bởi người dùng</p>
+                  <div class="rating_main">
+                     <div class="row">
+                        <div class="col-sm-6 col-lg-6">
+                           <div class="icon_2"><img src="../..images/icon-2.png"><span class="padding_10">4.6 Điểm đánh giá</span></div>
+                        </div>
+                        <div class="col-sm-6 col-lg-6">
+                           
+                        </div>
+                     </div>
+                  </div>
+                  <div class="paly_bt"><a th:href="@{http://localhost:8080/allSongs?p=1}">Phát ngay</a></div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- arrival section end -->
+      <!-- movies section start -->
+      <div class="movies_section layout_padding">
+         <div class="container">
+            <div class="movies_menu">
+               <ul th:each="category : ${t}">
+               <li ><a th:href="@{http://localhost:8080/byCategory(c=${category.id}, p=1)}"
+               			th:text="${category.categoryName}"></a></li>
+                
+             </ul>
+            </div>
+            <div class="movies_section_2 layout_padding">
+               <h2 class="letest_text" th:text="${c1_name}"></h2>
+               <div class="seemore_bt"><a th:href="@{http://localhost:8080/byCategory (p=1, c=${cate1.get(0).cateID.Id})}">Xem thêm</a></div>
+               <div class="movies_main">
+                  <div   class="iamge_movies_main">
+           
+                   <div th:each="songDTO : ${cate1}" class="iamge_movies">
+                        <div class="image_3">
+                           <img width="196px" height="285px" th:src="@{${songDTO.songIMG}}" class="image" >
+                           <div class="middle">
+                              <div class="playnow_bt"><a th:href="@{http://localhost:8080/song/song(id=${songDTO.songID})}">Play now</a></div>
+                           </div>
+                         
+                        </div>
+                        <h1 class="code_text" th:text="${format.format(songDTO.title)}"></h1>
+                        <p class="there_text" th:text="${format.format(songDTO.artistName)}"> </p>
+                        <div class="star_icon">
+                           <ul>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  
+             
+                    
+				</div>
+               </div>
+            </div>
+           <div class="movies_section_2 layout_padding">
+               <h2 class="letest_text" th:text="${c2_name}"></h2>
+               <div class="seemore_bt"><a th:href="@{http://localhost:8080/byCategory (p=1, c=${cate2.get(0).cateID.Id})}">Xem thêm</a></div>
+               <div class="movies_main">
+                  <div   class="iamge_movies_main">
+           
+                   <div th:each="songDTO : ${cate2}" class="iamge_movies">
+                        <div class="image_3">
+                           <img width="196px" height="285px" th:src="@{${songDTO.songIMG}}" class="image" >
+                           <div class="middle">
+                              <div class="playnow_bt"><a th:href="@{http://localhost:8080/song/song(id=${songDTO.songID})}">Play now</a></div>
+                           </div>
+                         
+                        </div>
+                        <h1 class="code_text" th:text="${format.format(songDTO.title)}"></h1>
+                        <p class="there_text" th:text="${format.format(songDTO.artistName)}"> </p>
+                        <div class="star_icon">
+                           <ul>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  
+             
+                    
+				</div>
+               </div>
+            </div>
+             <div class="movies_section_2 layout_padding">
+               <h2 class="letest_text" th:text="${c3_name}"></h2>
+               <div class="seemore_bt"><a th:href="@{http://localhost:8080/byCategory (p=1, c=${cate3.get(0).cateID.Id})}">Xem thêm</a></div>
+               <div class="movies_main">
+                  <div   class="iamge_movies_main">
+           
+                   <div th:each="songDTO : ${cate3}" class="iamge_movies">
+                        <div class="image_3">
+                           <img width="196px" height="285px" th:src="@{${songDTO.songIMG}}" class="image" >
+                           <div class="middle">
+                              <div class="playnow_bt"><a th:href="@{http://localhost:8080/song/song(id=${songDTO.songID})}">Play now</a></div>
+                           </div>
+                         
+                        </div>
+                        <h1 class="code_text" th:text="${format.format(songDTO.title)}"></h1>
+                        <p class="there_text" th:text="${format.format(songDTO.artistName)}"> </p>
+                        <div class="star_icon">
+                           <ul>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                              <li><a href="#"><img src="../../images/star-icon.png"></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  
+             
+                    
+				</div>
+               </div>
+            </div>
+            </div>
+         </div>
+      
+<div th:insert="fragments/footer::footer"></div>

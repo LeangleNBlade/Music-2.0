@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/admin-head::admin-head">
+</head>
+<body id="page-top">
+<div id="wrapper" th:insert="fragments/admin-header::admin-header"></div>
+
+
+
+                <!-- Begin Page Content -->
+                <div style="padding-bottom: 5%" class="container-fluid">
+
+                    <!-- Page Heading -->
+                    <h1 class="h3 mb-4 text-gray-800">Update Page</h1>
+
+<div id="edit" style="z-index: 9;width: fit-content; margin: auto"> 
+ 		  <div class="bg-img">
+      <div class="content">
+
+   
+        <form method="post"  th:action="@{/admin/addCate}" onsubmit="return isValidForm1()" >
+        
+  
+           <div class="field">
+           	<label class="labl" >Category Name</label>
+            <input name="name" type="text"  style="float: right" />
+          </div>
+          <div id="n-error" style="height: 25px;color: #a2f125;font-weight: bold;"></div>
+          
+         
+          <div class="field">
+            <input style="float:right" id="login-submit" type="submit" value="Add">
+          </div>
+        </form>
+       
+      </div>
+   </div>
+ 
+ </div>
+                </div>
+                <!-- /.container-fluid -->
+
+  
+            <!-- End of Main Content -->
+      <div th:insert="fragments/admin-footer::admin-footer"></div>

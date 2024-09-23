@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/admin-head::admin-head">
+</head>
+<body id="page-top">
+<div id="wrapper" th:insert="fragments/admin-header::admin-header"></div>
+
+      
+                <!-- Begin Page Content -->
+                <div class="container-fluid">
+
+                    <!-- Page Heading -->
+                    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+                    
+                    <!-- DataTales Example -->
+                    <div class="card shadow mb-4">
+                        <div class="card-header py-3">
+                            <h6 class="m-0 font-weight-bold text-primary"> Songs DataTable </h6>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                    <thead>
+                                        <tr>
+                                            <th>ID</th>
+                                            <th>Song</th>
+                                            <th>Artist</th>
+                                            <th>Image</th>
+                                            <th>Path</th>
+                                            <th>Category</th>
+                                            <th>Region</th>
+                                             <th>Edit</th>
+                                              <th>Delete</th>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                           <th>ID</th>
+                                            <th>Song</th>
+                                            <th>Artist</th>
+                                            <th>Image</th>
+                                            <th>Path</th>
+                                            <th>Category</th>
+                                            <th>Region</th>
+                                             <th>Edit</th>
+                                              <th>Delete</th>
+                                        </tr>
+                                    </tfoot>
+                                    <tbody>
+                                        <tr th:each="song: ${list}">
+                                            <td th:text="${song.songID}"></td>
+                                            <td th:text="${song.title}"></td>
+                                            <td th:text="${song.artistName}"></td>
+                                            <td th:text="${song.songIMG}"></td>
+                                            <td th:text="${song.mp3_link}"></td>
+                                            <td th:text="${song.cateID.categoryName}"></td>
+                                            <td th:text="${song.regionID.country}"></td>
+                                        	<td class="tb-com"> 
+                                        		<form  method="post" th:action="@{/admin/edit}">
+                                        		<input type="text" name="page" th:value="${currentPage}" hidden="true">
+                                        		<input type="text" name="id" th:value="${song.songID}" hidden="true">
+                                        		<input type="submit" value="Edit">
+                                        		</form></td>
+            								<td class="tb-com"> 
+            									<form  method="post" th:action="@{/admin/delete}">
+            									<input type="text" name="id" th:value="${song.songID}" hidden="true">
+            									<input type="submit" value="Delete">
+            									</form></td>
+                                        </tr>
+                                      
+                                    </tbody>
+                                </table>
+                            </div>
+       <div style="margin-left: 35%;float: inline-start"> <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <li class="page-item" th:classappend="${currentPage == 0 ? 'disabled' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=0)}">First</a>
+                </li>
+                <li class="page-item" th:classappend="${currentPage == 0 ? 'disabled' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${currentPage-1})}">Previous</a>
+                </li>
+                <th:block th:if="${totalPages<=5}">
+                <li class="page-item" th:each="i : ${#numbers.sequence(1, totalPages)}"
+                    th:classappend="${currentPage == i ? 'active' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${i})}" th:text="${i}"></a>
+                </li>
+                </th:block>
+                
+                <th:block th:if="${totalPages>5 and currentPage-2>0 and currentPage<totalPages-2}">
+                <li class="page-item" th:each="i : ${#numbers.sequence(currentPage-2, currentPage+2)}"
+                    th:classappend="${currentPage == i ? 'active' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${i})}" th:text="${i}"></a>
+                </li>
+                </th:block>
+                
+                <th:block th:if="${totalPages>5 and currentPage<=2 and currentPage<totalPages-2}">
+                <li class="page-item" th:each="i : ${#numbers.sequence(1, 5)}"
+                    th:classappend="${currentPage == i ? 'active' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${i})}" th:text="${i}"></a>
+                </li>
+                </th:block>
+                
+                <th:block th:if="${totalPages>5 and totalPages-currentPage<=2 }">
+                <li class="page-item" th:each="i : ${#numbers.sequence(totalPages-4, totalPages)}"
+                    th:classappend="${currentPage == i ? 'active' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${i})}" th:text="${i}"></a>
+                </li>
+                </th:block>
+              
+                <li class="page-item" th:classappend="${currentPage == totalPages - 1 ? 'disabled' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${currentPage+1})}">Next</a>
+                </li>
+                <li class="page-item" th:classappend="${currentPage == totalPages - 1 ? 'disabled' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${totalPages})}">Last</a>
+                </li>
+            </ul>
+        </nav></div>                      
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /.container-fluid -->
+
+            <!-- End of Main Content -->
+      <div th:insert="fragments/admin-footer::admin-footer"></div>

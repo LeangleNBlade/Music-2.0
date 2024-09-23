@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/admin-head::admin-head">
+</head>
+<body id="page-top">
+<div id="wrapper" th:insert="fragments/admin-header::admin-header"></div>
+
+      
+                <!-- Begin Page Content -->
+                <div class="container-fluid">
+
+                    <!-- Page Heading -->
+                    <h1 class="h3 mb-2 text-gray-800">Tables</h1>
+                    
+                    <!-- DataTales Example -->
+                    <div class="card shadow mb-4">
+                        <div class="card-header py-3">
+                            <h6 class="m-0 font-weight-bold text-primary"> Category DataTable </h6>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                    <thead>
+                                        <tr>
+                                            <th>ID</th>
+                                            <th>Name</th>
+                                         
+                                             <th>Edit</th>
+                                              <th>Delete</th>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                           <th>ID</th>
+                                           
+                                            <th>Name</th>
+                                             <th>Edit</th>
+                                              <th>Delete</th>
+                                        </tr>
+                                    </tfoot>
+                                    <tbody>
+                                        <tr th:each="cate: ${list}">
+                                            <td th:text="${cate.id}"></td>
+                                          
+                                            <td th:text="${cate.categoryName}"></td>
+                     
+                                        	<td class="tb-com"> 
+                                        		<form  method="post" th:action="@{/admin/editCate}">
+                                        		
+                                        		<input type="text" name="id" th:value="${cate.id}" hidden="true">
+                                        		<input type="submit" value="Edit">
+                                        		</form></td>
+            								<td class="tb-com"> 
+            									<form  method="post" th:action="@{/admin/deleteCate}">
+            									<input type="text" name="id" th:value="${cate.id}" hidden="true">
+            									<input type="submit" value="Delete">
+            									</form></td>
+                                        </tr>
+                                      
+                                    </tbody>
+                                </table>
+                            </div>
+     
+                        </div>
+                    </div>
+
+                </div>
+                <!-- /.container-fluid -->
+
+            <!-- End of Main Content -->
+      <div th:insert="fragments/admin-footer::admin-footer"></div>

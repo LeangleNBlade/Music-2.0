@@ -1,0 +1,400 @@
+id,img,lyrics,mp3_link,title,category_id,region_id,artist_id
+1,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664936526859.jpg,,../songs/1.mp3,Trên Đường Yêu,1,1,1
+2,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/14/3/7/7/b/1663151423518.jpg,,../songs/1.mp3,Tình Yêu Bolero,1,1,1
+3,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/3.mp3,Ước Hẹn Tuyên Quang,1,1,1
+4,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/14/3/f/d/9/1671001805586.jpg,,../songs/4.mp3,Bèo Dạt Mây Trôi,1,1,1
+5,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/2/9/7/2/1674350728372.jpg,,../songs/1.mp3,Bài Ca Tết Cho Em,1,1,1
+6,https://avatar-ex-swe.nixcdn.com/song/2022/12/15/0/3/9/2/1671110949646.jpg,,../songs/2.mp3,Chiều Đông Kỷ Niệm 2,1,1,1
+7,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/2/9/7/2/1674350722864.jpg,,../songs/1.mp3,Quê Hương Mùa Xuân,1,1,1
+8,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/5.mp3,Chiều Lên Bản Thượng Cover,1,1,1
+9,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/2/9/7/2/1674350733791.jpg,,../songs/1.mp3,Lk Cánh Thiệp Đầu Xuân,1,1,1
+10,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/2/9/7/2/1674350739961.jpg,,../songs/9.mp3,Lk Chào Xuân,1,1,1
+11,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/2/9/7/2/1674350714518.jpg,,../songs/2.mp3,Lk Xuân,1,1,1
+12,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/10/5/6/e/0/1654879233950.jpg,,../songs/6.mp3,Xuân Về Với Mẹ,1,1,1
+13,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/10/5/6/e/0/1654879233950.jpg,,../songs/9.mp3,Yêu Sao Vinh Bảo Quê Mình,1,1,1
+14,https://avatar-ex-swe.nixcdn.com/song/2022/12/15/0/3/9/2/1671110884960.jpg,,../songs/1.mp3,Giáng Sinh Xưa,1,1,1
+15,https://avatar-ex-swe.nixcdn.com/song/2022/10/16/5/e/5/8/1665893227256.jpg,,../songs/6.mp3,Xin Đừng Quên Tình Mẹ,1,1,1
+16,https://avatar-ex-swe.nixcdn.com/song/2022/10/16/5/e/5/8/1665893181486.jpg,,../songs/9.mp3,Thái Sơn Còn Đâu,1,1,1
+17,https://avatar-ex-swe.nixcdn.com/song/2022/10/16/5/e/5/8/1665893164152.jpg,,../songs/3.mp3,Quán Gánh Của Mẹ,1,1,1
+18,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/9.mp3,Nghìn Trùng Xa Cách,1,1,1
+19,https://avatar-ex-swe.nixcdn.com/song/2022/09/21/7/e/e/d/1663753964538.jpg,,../songs/2.mp3,Em Đau Một Lần Anh Đau Cả Cuộc Đời,1,1,1
+20,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/4.mp3,Bà Tôi,1,1,1
+21,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/06/11/5/8/7/1/1465639968590.jpg,,../songs/7.mp3,Liên Khúc: Chuyện Tình Bolero,1,1,1
+22,https://avatar-ex-swe.nixcdn.com/singer/avatar/2014/07/31/7/b/b/8/1406775721635.jpg,,../songs/9.mp3,Tiếng Kêu Tắc Kè,1,1,1
+23,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/2/9/7/2/1674350798581.jpg,,../songs/6.mp3,Vui Tết Miệt Vườn,1,1,1
+24,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/2/9/7/2/1674350793089.jpg,,../songs/9.mp3,Ước Nguyện Đầu Năm,1,1,1
+25,https://avatar-ex-swe.nixcdn.com/song/2022/12/30/3/9/6/f/1672405353632.jpg,,../songs/2.mp3,Tìm Về Quê Cha,1,1,1
+26,https://avatar-ex-swe.nixcdn.com/song/2022/12/15/0/3/9/2/1671110833850.jpg,,../songs/8.mp3,Đông Buồn 2,1,1,1
+27,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717546454.jpg,,../songs/6.mp3,Chuyến Đò Vỹ Tuyến,1,1,2
+28,https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/10/03/b/4/c/7/1507023743628.jpg,,../songs/9.mp3,"LK Người Lính Già Xa Quê Hương, Những Đóm Mắt Hỏa Châu, Xin Anh Giữ Trọn Tình Quê",1,1,2
+29,https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/04/18/6/6/0/8/1492499750133.jpg,,../songs/3.mp3,LK Lính,1,1,2
+30,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg,,../songs/8.mp3,Lý Mười Thương (Ca Huế),1,1,2
+31,https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/06/21/e/5/7/9/1529563096125.jpg,,../songs/7.mp3,Liên Khúc Ra Giêng Anh Cưới Em,1,1,2
+32,https://avatar-ex-swe.nixcdn.com/singer/avatar/2012/06/10273_avatar_WXF.jpg,,../songs/2.mp3,Trực Chiến,1,1,2
+33,https://avatar-ex-swe.nixcdn.com/song/2022/10/16/5/e/5/8/1665890833141.jpg,,../songs/8.mp3,Trở Về Cố Đô,1,1,2
+34,https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/11/28/b/a/d/9/1543398201416.jpg,,../songs/3.mp3,Thành Tâm Kính Mẹ Quan Âm,1,1,3
+35,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665565959471.jpg,,../songs/4.mp3,Vu Lan Con Về Mẹ Ở Đâu,1,1,3
+36,https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/11/28/b/a/d/9/1543398201416.jpg,,../songs/1.mp3,Thương Em Kiếp Mồ Côi,1,1,3
+37,https://avatar-ex-swe.nixcdn.com/song/2022/08/26/1/2/4/c/1661525410540.jpg,,../songs/5.mp3,Tình Thơ (Lofi Version),1,1,3
+38,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665565855232.jpg,,../songs/1.mp3,Thương Cho Phận Hồng Nhan,1,1,3
+39,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/06/16/f/9/d/4/1466072762039.jpg,,../songs/3.mp3,Xin Làm Người Xa Lạ (Mtqh6),1,1,3
+40,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/06/16/f/9/d/4/1466072762039.jpg,,../songs/7.mp3,Tình Đầu Tình Cuối (Mtqh6),1,1,3
+41,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/8.mp3,Hà Giang Quê Hương Tôi,1,1,3
+42,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/06/16/f/9/d/4/1466072762039.jpg,,../songs/2.mp3,Tình Như Mây Khói (Mtqh6),1,1,3
+43,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/06/16/f/9/d/4/1466072762039.jpg,,../songs/9.mp3,Trái Tim Ngục Tù (Mtqh6),1,1,3
+44,https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/04/17/b/7/5/3/1492403965320.jpg,,../songs/7.mp3,Xuân Thắm Tình Giai Nhân,1,1,3
+45,https://avatar-ex-swe.nixcdn.com/song/2023/01/10/7/e/e/d/1673338951208.jpg,,../songs/1.mp3,Chiều Cuối Năm,1,1,3
+46,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/2.mp3,Trường Cũ Tình Xưa,1,1,4
+47,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665565812682.jpg,,../songs/8.mp3,Phận Em Một Nửa Yêu Thương,1,1,4
+48,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665565829182.jpg,,../songs/9.mp3,Sa Đéc Vào Xuân,1,1,4
+49,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677933180130.jpg,,../songs/5.mp3,Lòng Mẹ,1,1,4
+50,https://avatar-ex-swe.nixcdn.com/song/2023/01/12/8/d/1/4/1673507114941.jpg,,../songs/2.mp3,Bài Ca Tết Cho Em,1,1,4
+51,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677933185187.jpg,,../songs/9.mp3,Về Thăm Quê Mẹ,1,1,4
+52,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677933190022.jpg,,../songs/6.mp3,Ân Cha Mẹ Như Trời Biển,1,1,4
+53,https://avatar-ex-swe.nixcdn.com/song/2022/10/01/a/5/d/e/1664595481169.jpg,,../songs/1.mp3,Tôi Trả Về Tôi,1,1,4
+54,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664953481990.jpg,,../songs/1.mp3,Thị Trấn Nhỏ Nhớ Anh,1,1,4
+55,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677933194819.jpg,,../songs/1.mp3,Vu Lan Nhớ Mẹ,1,1,4
+56,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677933199259.jpg,,../songs/1.mp3,Tình Mẹ Bao La,1,1,5
+57,https://avatar-ex-swe.nixcdn.com/song/2022/08/27/c/4/6/7/1661570094530.jpg,,../songs/9.mp3,Hoa Núi,1,1,5
+58,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677933204590.jpg,,../songs/8.mp3,Hạnh Nguyện Quan Âm,1,1,5
+59,https://avatar-ex-swe.nixcdn.com/song/2022/10/01/a/5/d/e/1664595458846.jpg,,../songs/2.mp3,Thương Cũng Vậy Thôi,1,1,5
+60,https://avatar-ex-swe.nixcdn.com/singer/avatar/2012/06/10969_avatar_MkG.jpg,,../songs/8.mp3,Vĩnh Hội Quê Tôi,1,1,5
+61,https://avatar-ex-swe.nixcdn.com/song/2022/10/01/a/5/d/e/1664595433683.jpg,,../songs/9.mp3,Sau Cơn Mưa Lũ,1,1,5
+62,https://avatar-ex-swe.nixcdn.com/song/2022/11/09/b/4/f/f/1667963536049.jpg,,../songs/5.mp3,Khúc Chacha Đêm Này,1,1,5
+63,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/9.mp3,Gặp Nhau Giữa Rừng Mơ,1,1,5
+64,https://avatar-ex-swe.nixcdn.com/song/2022/11/09/b/4/f/f/1667962832729.jpg,,../songs/2.mp3,Thương Tiếc Tình Đau SC,1,1,5
+65,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/11/7/c/e/b/1654885164430.jpg,,../songs/6.mp3,Biển Là Em,1,1,5
+66,https://avatar-ex-swe.nixcdn.com/song/2022/11/09/b/4/f/f/1667962872965.jpg,,../songs/3.mp3,Thương Tiếc Tình Đau Chacha,1,1,5
+67,https://avatar-ex-swe.nixcdn.com/song/2022/09/21/7/e/e/d/1663755348382.jpg,,../songs/9.mp3,Chuyện Tình Chàng Trai Nghèo,1,1,5
+68,https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/04/25/9/5/b/6/1493090652004.jpg,,../songs/6.mp3,Tiếng Dế Kêu Sương,1,1,5
+69,https://avatar-ex-swe.nixcdn.com/song/2022/10/01/a/5/d/e/1664634155424.jpg,,../songs/5.mp3,Còn Thương Rau Đắng Mọc Sau Hè (New Version),1,1,5
+70,https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/04/25/9/5/b/6/1493090652004.jpg,,../songs/4.mp3,Tình Quê Sông Vàm,1,1,5
+71,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/7.mp3,Hà Giang Quê Hương Tôi,1,1,6
+72,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/06/16/f/9/d/4/1466072762039.jpg,,../songs/9.mp3,Tình Như Mây Khói (Mtqh6),1,1,6
+73,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/06/16/f/9/d/4/1466072762039.jpg,,../songs/4.mp3,Trái Tim Ngục Tù (Mtqh6),1,1,6
+74,https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/04/17/b/7/5/3/1492403965320.jpg,,../songs/6.mp3,Xuân Thắm Tình Giai Nhân,1,1,6
+75,https://avatar-ex-swe.nixcdn.com/song/2023/01/10/7/e/e/d/1673338951208.jpg,,../songs/5.mp3,Chiều Cuối Năm,1,1,6
+76,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/7.mp3,Trường Cũ Tình Xưa,1,1,6
+77,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665565812682.jpg,,../songs/3.mp3,Phận Em Một Nửa Yêu Thương,1,1,6
+78,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665565829182.jpg,,../songs/4.mp3,Sa Đéc Vào Xuân,1,1,6
+79,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677933180130.jpg,,../songs/8.mp3,Lòng Mẹ,1,1,6
+80,https://avatar-ex-swe.nixcdn.com/song/2022/11/21/4/f/d/3/1669000507062.jpg,,../songs/3.mp3,In My Head,2,2,6
+81,https://avatar-ex-swe.nixcdn.com/song/2022/08/26/7/9/f/5/1661484901717.jpg,,../songs/13.mp3,god has a sense of humor,2,2,6
+82,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664936623844.jpg,,../songs/15.mp3,Vi Ejer Natten,2,2,6
+83,https://avatar-ex-swe.nixcdn.com/song/2022/12/08/f/7/5/2/1670488230265.jpg,,../songs/16.mp3,You Don't Know Me (Music Home Mùa 1),2,2,6
+84,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/17.mp3,Hold On,2,2,6
+85,https://avatar-ex-swe.nixcdn.com/song/2023/01/31/1/3/4/5/1675159570567.jpg,,../songs/14.mp3,Sure Thing (Sped Up),2,2,6
+86,https://avatar-ex-swe.nixcdn.com/song/2023/01/31/1/3/4/5/1675160618880.jpg,,../songs/19.mp3,"1, 2, 3 (Sped Up Version)",2,2,6
+87,https://avatar-ex-swe.nixcdn.com/song/2023/01/31/1/3/4/5/1675160753495.jpg,,../songs/11.mp3,Flare,2,2,6
+88,https://avatar-ex-swe.nixcdn.com/song/2023/02/22/c/2/6/1/1677045743260.jpg,,../songs/12.mp3,Somewhere Only We Know (Remastered 2022),2,2,6
+89,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665570632279.jpg,,../songs/13.mp3,Sad Songs In A Hotel Room,2,2,6
+90,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665570652517.jpg,,../songs/21.mp3,LA,2,2,6
+91,https://avatar-ex-swe.nixcdn.com/song/2023/03/21/5/5/b/2/1679378967330.jpg,,../songs/7.mp3,Honest,2,2,6
+92,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665570669199.jpg,,../songs/7.mp3,Used To It,2,2,6
+93,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665570751194.jpg,,../songs/12.mp3,Lifeline,2,2,6
+94,https://avatar-ex-swe.nixcdn.com/song/2022/11/09/b/4/f/f/1668011383004.jpg,,../songs/16.mp3,Wind,2,2,6
+95,https://avatar-ex-swe.nixcdn.com/song/2022/10/12/e/f/6/5/1665570786307.jpg,,../songs/7.mp3,All In Due Time,2,2,6
+96,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461819354385.jpg,,../songs/18.mp3,Walking (Original Version),2,2,6
+97,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940196511.jpg,,../songs/7.mp3,Ouverture - I Drove All Night (Live À Montréal),2,2,6
+98,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940218311.jpg,,../songs/21.mp3,Pour Que Tu M'aimes Encore (Demo Version),2,2,6
+99,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940245568.jpg,,../songs/20.mp3,Pour Que Tu M'aimes Encore (Live À Montréal),2,2,6
+100,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940268266.jpg,,../songs/19.mp3,Pour Que Tu M'aimes Encore (Pbo Version) (Playback Only Version),2,2,6
+101,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940289806.jpg,,../songs/16.mp3,"River Deep, Mountain High (Live À Montréal)",2,2,6
+102,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940305006.jpg,,../songs/7.mp3,S'il Suffisait D'aimer (Live À Montréal),2,2,6
+103,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940350798.jpg,,../songs/16.mp3,Taking Chances (Live À Montréal),2,2,6
+104,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940332879.jpg,,../songs/7.mp3,Taking Chances (I-soul Extended Remix),2,2,6
+105,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940371988.jpg,,../songs/20.mp3,The Prayer (Virtual Duet With Andrea Bocelli) (Boston Show),2,2,6
+106,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/16/2/e/3/c/1663341713277.jpg,,../songs/7.mp3,Blame Game,2,2,6
+107,https://avatar-ex-swe.nixcdn.com/song/2023/03/21/5/5/b/2/1679387652984.jpg,,../songs/16.mp3,Make You Feel My Love (Biển Của Hy Vọng),2,2,6
+108,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940400003.jpg,,../songs/7.mp3,Think Twice (Radio Edit),2,2,6
+109,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940440083.jpg,,../songs/7.mp3,Vole (Playback Only Version),2,2,6
+110,https://avatar-ex-swe.nixcdn.com/song/2022/10/05/2/3/6/c/1664940419006.jpg,,../songs/10.mp3,Trois Heures Vingt (Remastered),2,2,6
+111,https://avatar-ex-swe.nixcdn.com/song/2022/12/21/b/2/7/c/1671612819092.jpg,,../songs/11.mp3,The Songcord,2,2,6
+112,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/12/13/8/0/c/4/1670920536667.jpg,,../songs/12.mp3,Waka Waka (Cover),2,2,6
+113,https://avatar-ex-swe.nixcdn.com/song/2015/12/18/8/1/9/8/1450410912639.jpg,,../songs/21.mp3,Where Have You Been,2,2,6
+114,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/12.mp3,Antidote (Only Hope),2,2,6
+115,https://avatar-ex-swe.nixcdn.com/singer/avatar/2018/04/19/0/c/1/d/1524122974777.jpg,,../songs/20.mp3,Kind Of Love,2,2,6
+116,https://avatar-ex-swe.nixcdn.com/song/2023/03/01/7/e/7/a/1677666238831.jpg,,../songs/7.mp3,Dirt,2,2,6
+117,https://avatar-ex-swe.nixcdn.com/song/2022/12/26/d/1/7/8/1672041407082.jpg,,../songs/7.mp3,Superhero (Heroes & Villains),2,2,6
+118,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/04/28/9/a/5/b/1461817620024.jpg,,../songs/10.mp3,Whatever Makes Our Love Grow,2,2,6
+119,https://avatar-ex-swe.nixcdn.com/song/2023/02/20/4/0/d/0/1676882238048.jpg,,../songs/7.mp3,Summer Flower (Hoa Mùa Hạ Ost),2,2,6
+120,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/7.mp3,Jenny,2,2,6
+121,https://avatar-ex-swe.nixcdn.com/song/2022/12/08/f/7/5/2/1670489674935.jpg,,../songs/16.mp3,Are You Mine?,2,2,6
+122,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677933397860.jpg,,../songs/20.mp3,Still Alive (From The Original Motion Picture Scream VI),2,2,6
+123,https://avatar-ex-swe.nixcdn.com/song/2023/02/20/4/0/d/0/1676882335549.jpg,,../songs/19.mp3,The One (Hoa Mùa Hạ Ost),2,2,6
+124,https://avatar-ex-swe.nixcdn.com/song/2015/12/18/8/1/9/8/1450413276927.jpg,,../songs/18.mp3,Daylight,2,2,6
+125,https://avatar-ex-swe.nixcdn.com/song/2015/12/18/8/1/9/8/1450410912639.jpg,,../songs/7.mp3,Domino,2,2,6
+126,https://avatar-ex-swe.nixcdn.com/song/2022/07/25/0/c/4/b/1658684488500.jpg,,../songs/13.mp3,Disaster,2,2,6
+127,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677933473360.jpg,,../songs/14.mp3,My Stupid Heart,2,2,6
+128,https://avatar-ex-swe.nixcdn.com/song/2022/12/29/e/e/f/b/1672296790059.jpg,,../songs/16.mp3,Together,2,2,6
+129,https://avatar-ex-swe.nixcdn.com/song/2023/02/27/2/9/a/2/1677466097186.jpg,,../songs/7.mp3,Breaking The Circle,2,2,6
+130,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/21.mp3,Victim To Victor,2,2,6
+131,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/05/0/3/1/e/1662369722222.jpg,,../songs/7.mp3,Believe (Cover),2,2,6
+132,https://avatar-ex-swe.nixcdn.com/song/2023/03/20/d/e/5/e/1679309056633.jpg,,../songs/17.mp3,Christmas Kids,2,2,6
+133,https://avatar-ex-swe.nixcdn.com/song/2015/12/18/8/1/9/8/1450411180145.jpg,,../songs/12.mp3,Believe,2,2,6
+134,https://avatar-ex-swe.nixcdn.com/song/2023/02/20/4/0/d/0/1676882993033.jpg,,../songs/7.mp3,If You (Hoa Mùa Hạ Ost),2,2,6
+135,https://avatar-ex-swe.nixcdn.com/song/2022/07/23/d/b/8/1/1658546363698.jpg,,../songs/18.mp3,Easy,2,2,6
+136,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/20.mp3,Goodbye Hawaii,2,2,6
+137,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/05/0/3/1/e/1662369722222.jpg,,../songs/7.mp3,As Long As You Love Me (Cover),2,2,6
+138,https://avatar-ex-swe.nixcdn.com/song/2023/02/15/7/7/6/c/1676452470107.jpg,,../songs/7.mp3,It's Forever (Phẩm Cách Của Nữ Sĩ Ost),2,2,6
+139,https://avatar-ex-swe.nixcdn.com/song/2022/10/19/7/1/f/4/1666171082334.jpg,,../songs/20.mp3,Good Dog Spot,2,2,6
+140,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/16.mp3,Will It Ever Be The Same,2,2,6
+141,https://avatar-ex-swe.nixcdn.com/song/2022/08/26/7/9/f/5/1661484537760.jpg,,../songs/7.mp3,Car'S Outside (Acoustic),2,2,6
+142,https://avatar-ex-swe.nixcdn.com/song/2022/09/07/b/d/f/6/1662562088322.jpg,,../songs/7.mp3,Same Scent (English Ver.),2,2,6
+143,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/21.mp3,Bluebonnets,2,2,6
+144,https://avatar-ex-swe.nixcdn.com/song/2022/10/31/8/3/d/0/1667211256041.jpg,,../songs/19.mp3,LIỆU EM CÓ NHỚ,2,2,6
+145,https://avatar-ex-swe.nixcdn.com/song/2022/12/08/f/7/5/2/1670491690229.jpg,,../songs/15.mp3,Believe (Music Home Mùa 1),2,2,6
+146,https://avatar-ex-swe.nixcdn.com/song/2022/07/24/3/6/b/b/1658625233556.jpg,,../songs/20.mp3,Summer Heat,2,2,6
+147,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/26/b/f/a/7/1664172430479.jpg,,../songs/21.mp3,Beautiful Creature,2,2,6
+148,https://avatar-ex-swe.nixcdn.com/song/2022/07/21/5/8/5/2/1658378388552.jpg,,../songs/17.mp3,Ain't Seen Nothing Like This (Arknights OST),2,2,6
+149,https://avatar-ex-swe.nixcdn.com/song/2022/12/26/d/1/7/8/1672041877191.jpg,,../songs/10.mp3,Lối Vào Nhà Em,2,2,6
+150,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/09/05/0/3/1/e/1662369722222.jpg,,../songs/12.mp3,Snowman (Cover),2,2,6
+151,https://avatar-ex-swe.nixcdn.com/song/2022/07/17/d/9/7/4/1658062359275.jpg,,../songs/7.mp3,Out Of Control,2,2,6
+152,https://avatar-ex-swe.nixcdn.com/song/2023/02/01/4/5/f/2/1675225049939.jpg,,../songs/7.mp3,Perfect,2,2,6
+153,https://avatar-ex-swe.nixcdn.com/song/2022/07/17/d/9/7/4/1658062420229.jpg,,../songs/18.mp3,The Karma Machine,2,2,6
+154,https://avatar-ex-swe.nixcdn.com/song/2023/02/01/4/5/f/2/1675224978287.jpg,,../songs/7.mp3,Hurting Interlude,2,2,6
+155,https://avatar-ex-swe.nixcdn.com/song/2022/07/17/d/9/7/4/1658062293799.jpg,,../songs/14.mp3,Cinderella Shoes,2,2,6
+156,https://avatar-ex-swe.nixcdn.com/song/2023/02/01/4/5/f/2/1675225095160.jpg,,../songs/20.mp3,How To Cry,2,2,6
+157,https://avatar-ex-swe.nixcdn.com/song/2022/07/17/d/9/7/4/1658062740311.jpg,,../songs/21.mp3,The Drifter,2,2,6
+158,https://avatar-ex-swe.nixcdn.com/song/2022/08/30/e/4/d/1/1661851591913.jpg,,../songs/7.mp3,Just Friends (English Version),2,2,6
+159,https://avatar-ex-swe.nixcdn.com/song/2022/07/17/d/9/7/4/1658062571417.jpg,,../songs/7.mp3,Safe Place,2,2,7
+160,https://avatar-ex-swe.nixcdn.com/song/2021/03/13/0/8/5/a/1615600740299.jpg,,../songs/16.mp3,I'm Here To Stay,3,2,7
+161,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/7.mp3,Who Am I Today,3,2,7
+162,https://avatar-ex-swe.nixcdn.com/song/2021/03/13/0/8/5/a/1615600683732.jpg,,../songs/7.mp3,Blue,3,2,7
+163,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032097277.jpg,,../songs/21.mp3,Catch Me If You Can (No Drums),3,2,7
+164,https://avatar-ex-swe.nixcdn.com/song/2021/03/13/0/8/5/a/1615600908295.jpg,,../songs/10.mp3,Die For A Life With You,3,2,7
+165,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032042524.jpg,,../songs/7.mp3,Catch Me If You Can (Main),3,2,7
+166,https://avatar-ex-swe.nixcdn.com/song/2021/03/13/0/8/5/a/1615600881234.jpg,,../songs/13.mp3,Wait For Love,3,2,7
+167,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032224499.jpg,,../songs/21.mp3,Revving My Motor (No Drums),3,2,7
+168,https://avatar-ex-swe.nixcdn.com/song/2021/03/13/0/8/5/a/1615600824421.jpg,,../songs/20.mp3,Without Love,3,2,7
+169,https://avatar-ex-swe.nixcdn.com/song/2020/04/14/7/b/f/3/1586821843690.jpg,,../songs/7.mp3,Brooklyn Bridge To Chorus,3,2,7
+170,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032174913.jpg,,../songs/17.mp3,Revving My Motor (Main),3,2,7
+171,https://avatar-ex-swe.nixcdn.com/song/2021/03/13/0/8/5/a/1615600789155.jpg,,../songs/19.mp3,Derive,3,2,7
+172,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625031896685.jpg,,../songs/12.mp3,Big Balls (No Drums),3,2,8
+173,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625031850329.jpg,,../songs/7.mp3,Big Balls (Main),3,2,8
+174,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032001010.jpg,,../songs/7.mp3,Shuffle Your Cards (No Drums),3,2,9
+175,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625031940872.jpg,,../songs/20.mp3,Shuffle Your Cards (Main),3,2,10
+176,https://avatar-ex-swe.nixcdn.com/song/2021/03/13/0/8/5/a/1615600930003.jpg,,../songs/17.mp3,After The Rain,3,2,11
+177,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032394838.jpg,,../songs/7.mp3,Slow Sex (No Drums),3,2,12
+178,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/7.mp3,Hold It Down,3,2,13
+179,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032465576.jpg,,../songs/21.mp3,Stormbringer (Main),3,2,14
+180,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032562012.jpg,,../songs/12.mp3,Stormbringer (No Drums),3,2,15
+181,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032270538.jpg,,../songs/7.mp3,Hell To Pay (Main),3,2,16
+182,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032306037.jpg,,../songs/7.mp3,Hell To Pay (No Drums),3,2,17
+183,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032349689.jpg,,../songs/15.mp3,Slow Sex (Main),3,2,18
+184,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032779025.jpg,,../songs/18.mp3,Shortcut To Hell (No Drums),3,2,19
+185,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/21.mp3,Notion,3,2,20
+186,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032840317.jpg,,../songs/7.mp3,"Heads Rockin', Heads Rollin' (Main)",3,2,21
+187,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032966942.jpg,,../songs/17.mp3,"Heads Rockin', Heads Rollin' (No Drums)",3,2,22
+188,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/7.mp3,Pox,3,2,23
+189,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032601872.jpg,,../songs/20.mp3,Witch Hammer (Main),3,2,24
+190,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032651197.jpg,,../songs/7.mp3,Witch Hammer (No Drums),3,2,25
+191,https://avatar-ex-swe.nixcdn.com/song/2021/06/30/7/5/6/a/1625032705349.jpg,,../songs/7.mp3,Shortcut To Hell (Main),3,2,26
+192,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/14.mp3,Zero,3,2,27
+193,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/c/8/3/7/1674392584839.jpg,,../songs/7.mp3,The Fruit Trees,3,2,28
+194,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/c/8/3/7/1674392682426.jpg,,../songs/18.mp3,Can We Relate?,3,2,29
+195,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/c/8/3/7/1674392839964.jpg,,../songs/20.mp3,Sofia Vacation,3,2,30
+196,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/c/8/3/7/1674392934308.jpg,,../songs/7.mp3,I Don’t Want to Live with the Bourgeoisie No More,3,2,31
+197,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/c/8/3/7/1674392272469.jpg,,../songs/19.mp3,Protégé,3,2,32
+198,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/c/8/3/7/1674392388300.jpg,,../songs/13.mp3,You Wonder,3,2,33
+199,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/c/8/3/7/1674392442407.jpg,,../songs/10.mp3,Spiral Staircase,3,2,34
+200,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/c/8/3/7/1674392513141.jpg,,../songs/20.mp3,Climbing,3,2,35
+201,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/09/25/8/d/6/5/1474821077520.jpg,,../songs/7.mp3,Coming With The Hellfire,3,2,36
+202,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/c/8/3/7/1674392206007.jpg,,../songs/21.mp3,Tell Everybody,3,2,37
+203,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/20.mp3,Tell Me You Know,3,2,38
+204,https://avatar-ex-swe.nixcdn.com/song/2023/01/22/c/8/3/7/1674392109443.jpg,,../songs/7.mp3,The Comedian,3,2,39
+205,https://avatar-ex-swe.nixcdn.com/song/2023/02/22/c/2/6/1/1677036775951.jpg,,../songs/7.mp3,Bury The Light,3,2,40
+206,https://avatar-ex-swe.nixcdn.com/song/2020/04/13/4/9/0/0/1586794008610.jpg,,../songs/11.mp3,Luna nuda,3,2,41
+207,https://avatar-ex-swe.nixcdn.com/song/2020/04/13/4/9/0/0/1586794008610.jpg,,../songs/12.mp3,Cuore matto,3,2,42
+208,https://avatar-ex-swe.nixcdn.com/song/2020/04/13/4/9/0/0/1586794008610.jpg,,../songs/12.mp3,Ferro caldo,3,2,43
+209,https://avatar-ex-swe.nixcdn.com/song/2018/09/06/2/a/a/4/1536226475227.jpg,,../songs/15.mp3,Blue Jeans,3,2,44
+210,https://avatar-ex-swe.nixcdn.com/song/2020/04/13/4/9/0/0/1586794008610.jpg,,../songs/7.mp3,Pugili fragili,3,2,45
+211,https://avatar-ex-swe.nixcdn.com/song/2020/04/13/4/9/0/0/1586794008610.jpg,,../songs/10.mp3,Stereo santo,3,2,46
+212,https://avatar-ex-swe.nixcdn.com/song/2020/04/13/4/9/0/0/1586794008610.jpg,,../songs/19.mp3,Nata libera,3,2,47
+213,https://avatar-ex-swe.nixcdn.com/song/2020/04/13/4/9/0/0/1586794008610.jpg,,../songs/21.mp3,Fossi foco,3,2,48
+214,https://avatar-ex-swe.nixcdn.com/song/2020/04/13/4/9/0/0/1586793945905.jpg,,../songs/18.mp3,Honigmann,3,2,49
+215,https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/05/10/2/7/6/e/1494386031150.jpg,,../songs/7.mp3,Man Of War,3,2,50
+216,https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/02/23/5/c/a/2/1487836077066.jpg,,../songs/7.mp3,Dare,3,2,51
+217,https://avatar-ex-swe.nixcdn.com/song/2020/04/13/4/9/0/0/1586794008610.jpg,,../songs/11.mp3,Picnic all'inferno,3,2,52
+218,https://avatar-ex-swe.nixcdn.com/song/2020/04/13/4/9/0/0/1586794008610.jpg,,../songs/13.mp3,Gigante,3,2,53
+219,https://avatar-ex-swe.nixcdn.com/song/2020/06/24/f/c/0/e/1592966851173.jpg,,../songs/7.mp3,Falling In Love,3,2,54
+220,https://avatar-ex-swe.nixcdn.com/song/2020/04/14/7/b/f/3/1586822329533.jpg,,../songs/11.mp3,Kendime Öğütler,3,2,55
+221,https://avatar-ex-swe.nixcdn.com/song/2020/06/24/f/c/0/e/1592966780583.jpg,,../songs/20.mp3,You’re All I Want,3,2,56
+222,https://avatar-ex-swe.nixcdn.com/song/2020/04/14/7/b/f/3/1586822329533.jpg,,../songs/7.mp3,Sesini Ver,3,2,57
+223,https://avatar-ex-swe.nixcdn.com/song/2020/06/24/f/c/0/e/1592966943189.jpg,,../songs/10.mp3,You're The Only Good Thing In My Life,3,2,58
+224,https://avatar-ex-swe.nixcdn.com/song/2020/04/14/7/b/f/3/1586822329533.jpg,,../songs/17.mp3,Dışarda Kış,3,2,59
+225,https://avatar-ex-swe.nixcdn.com/song/2020/06/24/f/c/0/e/1592966978321.jpg,,../songs/21.mp3,Touch,3,2,60
+226,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/7.mp3,Ordinary Day,3,2,61
+227,https://avatar-ex-swe.nixcdn.com/song/2020/06/24/f/c/0/e/1592966891934.jpg,,../songs/16.mp3,Don’t Let Me Go,3,2,62
+228,https://avatar-ex-swe.nixcdn.com/song/2020/04/14/7/b/f/3/1586822329533.jpg,,../songs/7.mp3,Ağustosta Akşamüstü,3,2,63
+229,https://avatar-ex-swe.nixcdn.com/song/2020/06/24/f/c/0/e/1592966921616.jpg,,../songs/18.mp3,Kiss It Off Me,3,2,64
+230,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/7.mp3,Unfair,3,2,65
+231,https://avatar-ex-swe.nixcdn.com/song/2020/04/14/7/b/f/3/1586822329533.jpg,,../songs/7.mp3,Bugünlerde Bir Şey Var,3,2,66
+232,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/08/26/a/7/2/e/1472199109414.jpg,,../songs/21.mp3,No Matter How Hard We Try,3,2,67
+233,https://avatar-ex-swe.nixcdn.com/song/2020/06/24/f/c/0/e/1592967031309.jpg,,../songs/11.mp3,Pure,3,2,68
+234,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/20.mp3,The Only One I Want,3,2,69
+235,https://avatar-ex-swe.nixcdn.com/song/2020/04/14/7/b/f/3/1586822329533.jpg,,../songs/7.mp3,Canım Bir Ses Arıyor,3,2,70
+236,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/10.mp3,What You Said,3,2,71
+237,https://avatar-ex-swe.nixcdn.com/song/2020/04/14/7/b/f/3/1586822329533.jpg,,../songs/7.mp3,Yelkenlerim Sana Doğru,3,2,72
+238,https://avatar-ex-swe.nixcdn.com/song/2020/06/24/f/c/0/e/1592966994016.jpg,,../songs/21.mp3,Hentai,3,2,73
+239,https://avatar-ex-swe.nixcdn.com/song/2020/04/14/7/b/f/3/1586822329533.jpg,,../songs/19.mp3,Bu Sular Derin,3,2,74
+240,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/12.mp3,These Foolish Things,4,2,75
+241,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/7.mp3,BLUES CHANGES,4,2,76
+242,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/7.mp3,Speed,4,2,77
+243,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/20.mp3,Crazy Rhythm,4,2,78
+244,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/16.mp3,"Here, There And Everywhere",4,2,79
+245,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/7.mp3,Get Happy,4,2,80
+246,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/21.mp3,Welcome Back,4,2,81
+247,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/13.mp3,Milonga,4,2,82
+248,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/7.mp3,Do qui flotte,4,2,83
+249,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/17.mp3,All The Things You Are,4,2,84
+250,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/15.mp3,Colchiques dans les prés,4,2,85
+251,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/10.mp3,Shivers,4,2,86
+252,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/7.mp3,La Danza,4,2,87
+253,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/7.mp3,Step On It,4,2,88
+254,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/11.mp3,Epilogue,4,2,89
+255,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/21.mp3,Adios,4,2,90
+256,https://avatar-ex-swe.nixcdn.com/song/2022/11/08/8/a/6/f/1667896983990.jpg,,../songs/7.mp3,Home To Mama - Slow Jazz,4,2,91
+257,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/7.mp3,Lover Come Back To Me,4,2,92
+258,https://avatar-ex-swe.nixcdn.com/song/2019/03/01/f/6/5/7/1551424328793.jpg,,../songs/18.mp3,I'm a Fool to Want You,4,2,93
+259,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/7.mp3,Indiana,4,2,94
+260,https://avatar-ex-swe.nixcdn.com/song/2019/12/04/1/8/7/2/1575442424032.jpg,,../songs/12.mp3,Epistrophy,4,2,95
+261,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/7.mp3,Esquire Jump,4,2,96
+262,https://avatar-ex-swe.nixcdn.com/song/2019/12/04/1/8/7/2/1575442424032.jpg,,../songs/14.mp3,'Round Midnight,4,2,97
+263,https://avatar-ex-swe.nixcdn.com/song/2019/12/04/1/8/7/2/1575442424032.jpg,,../songs/7.mp3,"Ruby, My Dear",4,2,98
+264,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/21.mp3,Hawk's Variation (Pt. 1),4,2,99
+265,https://avatar-ex-swe.nixcdn.com/song/2019/12/04/1/8/7/2/1575442424032.jpg,,../songs/23.mp3,Criss Cross,4,2,100
+266,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/16.mp3,Thanks For The Memory,4,2,101
+267,https://avatar-ex-swe.nixcdn.com/song/2019/12/04/1/8/7/2/1575442424032.jpg,,../songs/7.mp3,Off Minor,4,2,102
+268,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/7.mp3,Lover Come Back To Me (Alternate Take),4,2,103
+269,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/10.mp3,Hawk's Variation (Pt. 2),4,2,104
+270,https://avatar-ex-swe.nixcdn.com/song/2019/05/13/5/1/8/f/1557757257697.jpg,,../songs/21.mp3,Black Diamond,4,2,105
+271,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/7.mp3,Say It Isn't So,4,2,106
+272,https://avatar-ex-swe.nixcdn.com/song/2019/05/13/5/1/8/f/1557757257697.jpg,,../songs/11.mp3,Hard Luck and Traveling,4,2,107
+273,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/19.mp3,Memories Of You,4,2,108
+274,https://avatar-ex-swe.nixcdn.com/song/2018/12/21/a/f/6/5/1545377374403.jpg,,../songs/7.mp3,Stompin' At The Savoy,4,2,109
+275,https://avatar-ex-swe.nixcdn.com/song/2019/05/13/5/1/8/f/1557757257697.jpg,,../songs/16.mp3,Make Haste,4,2,110
+276,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/23.mp3,Riding On 52nd Street,4,2,111
+277,https://avatar-ex-swe.nixcdn.com/song/2019/05/13/5/1/8/f/1557757257697.jpg,,../songs/21.mp3,Hot Weather Blues,4,2,112
+278,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/23.mp3,Look Here,4,2,113
+279,https://avatar-ex-swe.nixcdn.com/song/2019/05/13/5/1/8/f/1557757257697.jpg,,../songs/23.mp3,I'm High,4,2,114
+280,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/12.mp3,Willow Weep For Me,4,2,115
+281,https://avatar-ex-swe.nixcdn.com/song/2019/05/13/5/1/8/f/1557757257697.jpg,,../songs/13.mp3,Butcher Boy,4,2,116
+282,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/18.mp3,Take It On Back,4,2,117
+283,https://avatar-ex-swe.nixcdn.com/song/2019/05/13/5/1/8/f/1557757257697.jpg,,../songs/21.mp3,Sad Head Blues,4,2,118
+284,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/23.mp3,I Don't Stand A Ghost Of A Chance,4,2,119
+285,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/12.mp3,When Day Is Done,4,2,120
+286,https://avatar-ex-swe.nixcdn.com/song/2019/05/13/5/1/8/f/1557757257697.jpg,,../songs/22.mp3,Mumbles Blues,4,2,121
+287,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/17.mp3,Memories Of You,4,2,122
+288,https://avatar-ex-swe.nixcdn.com/song/2022/05/16/9/f/b/6/1652684342061.jpg,,../songs/10.mp3,Little Big Steps,4,2,123
+289,https://avatar-ex-swe.nixcdn.com/song/2022/11/08/8/a/6/f/1667896920502.jpg,,../songs/14.mp3,Relaxing Creation - Slow Jazz,4,2,124
+290,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677906624799.jpg,,../songs/23.mp3,Blessed Moves,4,2,125
+291,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677906699218.jpg,,../songs/15.mp3,Feel Great With Your Moon,4,2,126
+292,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677906469697.jpg,,../songs/23.mp3,Cheerful Color,4,2,127
+293,https://avatar-ex-swe.nixcdn.com/song/2022/05/16/9/f/b/6/1652686436922.jpg,,../songs/22.mp3,There By The Door,4,2,128
+294,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677906560202.jpg,,../songs/18.mp3,Instrumental Cocktail,4,2,129
+295,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677906326774.jpg,,../songs/20.mp3,Back To Everything,4,2,130
+296,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677906401400.jpg,,../songs/22.mp3,High Moods,4,2,131
+297,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/23.mp3,I'm a Fool to Want You,4,2,132
+298,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677906170773.jpg,,../songs/11.mp3,Random Sounds,4,2,133
+299,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/23.mp3,Up for It,4,2,134
+300,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677906247079.jpg,,../songs/12.mp3,Blissful Theater,4,2,135
+301,https://avatar-ex-swe.nixcdn.com/song/2022/05/16/9/f/b/6/1652686517856.jpg,,../songs/22.mp3,12th Avenue,4,2,136
+302,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677906037641.jpg,,../songs/16.mp3,Happy Rainy Day,4,2,137
+303,https://avatar-ex-swe.nixcdn.com/song/2023/03/04/3/2/c/4/1677906105829.jpg,,../songs/22.mp3,Planned Sounds,4,2,138
+304,https://avatar-ex-swe.nixcdn.com/song/2022/05/16/9/f/b/6/1652686585826.jpg,,../songs/19.mp3,Secret Safe,4,2,139
+305,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/10.mp3,Sarabande (From Partita In C Minor),4,2,140
+306,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/23.mp3,You've Changed,4,2,141
+307,https://avatar-ex-swe.nixcdn.com/song/2019/12/05/3/d/1/9/1575490221961.jpg,,../songs/22.mp3,Crying Man,4,2,142
+308,https://avatar-ex-swe.nixcdn.com/song/2022/05/16/9/f/b/6/1652688059975.jpg,,../songs/13.mp3,Goodbye Jd,4,2,143
+309,https://avatar-ex-swe.nixcdn.com/song/2022/05/16/9/f/b/6/1652689892740.jpg,,../songs/23.mp3,I Come From The Future,4,2,144
+310,https://avatar-ex-swe.nixcdn.com/song/2022/05/16/9/f/b/6/1652689765622.jpg,,../songs/11.mp3,Camperdown,4,2,145
+311,https://avatar-ex-swe.nixcdn.com/song/2022/11/08/8/a/6/f/1667896863804.jpg,,../songs/20.mp3,Sleeping Mind - Slow Jazz,4,2,146
+312,https://avatar-ex-swe.nixcdn.com/song/2020/03/06/0/a/9/f/1583482627239.jpg,,../songs/23.mp3,Stop The World,4,2,147
+313,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/18.mp3,Kiss (Never Let Me Go),4,2,148
+314,https://avatar-ex-swe.nixcdn.com/song/2018/12/21/a/f/6/5/1545377374403.jpg,,../songs/22.mp3,There's a Boat Dat's Leavin' Soon for New York,4,2,149
+315,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/20.mp3,Nat Meets June,4,2,150
+316,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/22.mp3,The Old Song,4,2,151
+317,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/23.mp3,Nat Meets June (BD 2),4,2,152
+318,https://avatar-ex-swe.nixcdn.com/song/2018/12/21/a/f/6/5/1545377374403.jpg,,../songs/18.mp3,If I Could Wrap up a Kiss,4,2,153
+319,https://avatar-ex-swe.nixcdn.com/song/2019/01/31/2/b/8/d/1548941651910.jpg,,../songs/17.mp3,Nat Meets June (Alternate Take 2),4,1,154
+320,https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/02/02/b/4/c/f/1675312802606.jpg,,../songs/23.mp3,Như Những Đóa San Hô,5,1,155
+321,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/22.mp3,Đồng Đội Ơi,5,1,156
+322,https://avatar-ex-swe.nixcdn.com/singer/avatar/2012/06/16174_avatar_EIX.jpg,,../songs/10.mp3,Hành Khúc Lữ Đoàn 189,5,1,157
+323,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/23.mp3,Tổ Quốc Tôi Chưa Đẹp Thế Bao Giờ,5,1,158
+324,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/15.mp3,Ba Đình Nắng,5,1,159
+325,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/22.mp3,Tổ Quốc Con Tàu Và Người Thủy Thủ,5,1,160
+326,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717718554.jpg,,../songs/23.mp3,Bài Ca Người Lính Tàu Ngầm,5,1,161
+327,https://avatar-ex-swe.nixcdn.com/singer/avatar/2012/06/72852_avatar_v6L.jpg,,../songs/22.mp3,Những Chiến Sĩ Làm Chủ Lòng Đại Dương,5,1,162
+328,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/12.mp3,Mẹ Tôi,5,1,163
+329,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717718554.jpg,,../songs/23.mp3,Chúng Tôi Là Lính Tàu Ngầm,5,1,164
+330,https://avatar-ex-swe.nixcdn.com/singer/avatar/2017/01/24/2/f/7/5/1485224782805.jpg,,../songs/17.mp3,Ngồi Nghe Sóng Kể Chuyện,5,1,165
+331,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/20.mp3,Hát Về Một Tám Chín,5,1,166
+332,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/10.mp3,Lặng Lẽ Đại Dương,5,1,167
+333,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/19.mp3,Tự Hào Thành Phố Của Tôi,5,1,168
+334,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/10/26/a/b/4/2/1477469340200.jpg,,../songs/18.mp3,Người Chiến Sĩ Tàu Ngầm,5,1,169
+335,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg,,../songs/23.mp3,Lính Đặc Công Hát,5,1,170
+336,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/20.mp3,Ta Tự Hào Đi Lên,5,1,171
+337,https://avatar-ex-swe.nixcdn.com/song/2019/05/13/5/1/8/f/1557722109815.jpg,,../songs/3.mp3,Tiếng Gió Hàng Dương,5,1,172
+338,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/23.mp3,Nhớ Nguyễn Du,5,1,173
+339,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/23.mp3,Người Là Niềm Tin Tất Thắng,5,1,174
+340,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/20.mp3,Người Chiến Sĩ Giao Thông,5,1,175
+341,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/23.mp3,Cờ Đảng Sáng Mãi Vùng Biên,5,1,176
+342,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/22.mp3,Những Ánh Sao Đêm,5,1,177
+343,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717634461.jpg,,../songs/13.mp3,Mẹ Tôi Live,5,1,178
+344,https://avatar-ex-swe.nixcdn.com/song/2020/08/10/f/2/3/4/1597067185202.jpg,,../songs/14.mp3,Bình Trị Thiên Khói Lửa,5,1,179
+345,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/23.mp3,Trên Dòng Sông Thạch Hãn,5,1,180
+346,https://avatar-ex-swe.nixcdn.com/song/2020/08/10/f/2/3/4/1597067278846.jpg,,../songs/20.mp3,Vết Chân Tròn Trên Cát,5,1,181
+347,https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/02/02/b/4/c/f/1675312802606.jpg,,../songs/23.mp3,Rạch Gầm Dậy Sóng,5,1,50
+348,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg,,../songs/23.mp3,Tự Hào Thành Phố Của Tôi,5,1,51
+349,https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/02/02/b/4/c/f/1675312802606.jpg,,../songs/20.mp3,Mãi Mãi Việt Nam,5,1,52
+350,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/09/25/d/8/3/5/1601029237438.jpg,,../songs/18.mp3,Nhạc Rừng,5,1,53
+351,https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/02/02/b/4/c/f/1675312802606.jpg,,../songs/23.mp3,Giai Điệu Tự Hào,5,1,54
+352,https://avatar-ex-swe.nixcdn.com/singer/avatar/2014/13/7E4149A9_1254.jpg,,../songs/13.mp3,Hoàng Sa Trường Sa Ơi,5,1,55
+353,https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/02/02/b/4/c/f/1675312802606.jpg,,../songs/15.mp3,Niềm Vui Thao Trường,5,1,56
+354,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/11.mp3,Lá Cờ Tổ Quốc Giữa Biển Đông,5,1,57
+355,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg,,../songs/16.mp3,Tự Hào Nguyễn Văn Huyên,5,1,58
+356,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/2658_Tran_Khanh_A.jpg,,../songs/22.mp3,Thế Gian Này Chỉ Riêng Bác Mà Thôi,5,1,59
+357,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/23.mp3,Bác Hồ Một Tình Yêu Bao La,5,1,60
+358,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/19.mp3,Linh Thiêng Việt Nam,5,1,61
+359,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg,,../songs/17.mp3,Lào Cai Ơn Nhớ Bác Hồ,5,1,62
+360,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/23.mp3,Tàu Anh Qua Núi (Cover),5,1,63
+361,https://avatar-ex-swe.nixcdn.com/singer/avatar/2012/06/8528_avatar_aNl.jpg,,../songs/19.mp3,Bác Hồ Về Quê Tôi Chống Hạn,5,1,64
+362,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/20.mp3,Đường Chúng Ta Đi,5,1,65
+363,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg,,../songs/22.mp3,Cuộc Đời Vẫn Đẹp Sao,5,1,66
+364,https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/02/02/b/4/c/f/1675312802606.jpg,,../songs/23.mp3,Tiếng Hát Từ Thành Phố Mang Tên Người,5,1,67
+365,https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/02/07/8/f/9/6/1675737715533.jpg,,../songs/19.mp3,Bình Minh Của Lính Tàu Ngầm,5,1,68
+366,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg,,../songs/23.mp3,Đất Nước Trọn Niềm Vui,5,1,69
+367,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/907_HoangNghiep_A.jpg,,../songs/18.mp3,Việt Nam Ơi,5,1,70
+368,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/3.mp3,Đảo Là Nhà Tổ Quốc Của Chúng Ta,5,1,71
+369,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/23.mp3,Quốc Ấn Đại Việt,5,1,72
+370,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/22.mp3,Yêu Lính Đảo Xa,5,1,73
+371,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/20.mp3,Ru Mẹ,5,1,74
+372,https://avatar-ex-swe.nixcdn.com/song/2020/07/11/8/0/9/6/1594404624597.jpg,,../songs/12.mp3,Vết Chân Tròn Trên Cát,5,1,75
+373,https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/02/24/b/3/2/3/1677214297154.jpg,,../songs/23.mp3,Gửi Nắng Cho Em,5,1,76
+374,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/11.mp3,Giấc Mơ Dưới Gốc Cây Bồ Đề Nghĩa Trang Trường Sơn,5,1,77
+375,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/23.mp3,Trường Ca Sông Lô,5,1,78
+376,https://avatar-ex-swe.nixcdn.com/singer/avatar/2022/06/01/0/6/9/d/1654053210960.jpg,,../songs/23.mp3,Chào Em Cô Gái Lam Hồng,5,1,79
+377,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/13.mp3,"Trường Sơn Đông, Trường Sơn Tây",5,1,80
+378,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/18.mp3,Bài Ca May Áo,5,1,81
+379,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/23.mp3,Giai Điệu Tổ Quốc,5,1,82
+380,https://avatar-ex-swe.nixcdn.com/singer/avatar/2012/06/22923_avatar_byq.jpg,,../songs/19.mp3,Hào Khí Việt Nam,5,1,83
+381,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/3.mp3,Miền Xa Thẳm,5,1,84
+382,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/876_HoaiNam_A.jpg,,../songs/14.mp3,Phú Thọ Mộ Khúc Ca Xanh,5,1,85
+383,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg,,../songs/20.mp3,50 Năm Một Chặng Đường Để Nhớ,5,1,86
+384,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg,,../songs/17.mp3,LK Quốc Ca - Đội Ca,5,1,87
+385,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/22.mp3,Dấu Chân Phía Trước,5,1,88
+386,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13657_QuocHung_A.jpg,,../songs/11.mp3,Đường Chúng Ta Đi,5,1,89
+387,https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/02/02/b/4/c/f/1675312802606.jpg,,../songs/22.mp3,Người Lính Biên Phòng,5,1,90
+388,https://avatar-ex-swe.nixcdn.com/singer/avatar/2020/08/18/e/4/e/c/1597723219000.jpg,,../songs/16.mp3,Trung Đoàn 812,5,1,91
+389,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/3.mp3,Tự Nguyện,5,1,92
+390,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/23.mp3,Đảng Là Cuộc Sống Của Tôi,5,1,93
+391,https://avatar-ex-swe.nixcdn.com/singer/avatar/2023/02/02/b/4/c/f/1675312802606.jpg,,../songs/20.mp3,Người Thầy Giáo Mang Quân Hàm Xanh,5,1,94
+392,https://avatar-ex-swe.nixcdn.com/singer/avatar/2016/01/25/4/1/1/7/1453717600986.jpg,,../songs/19.mp3,Gần Lắm Trường Sa,5,1,95
+393,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/13.mp3,Màu Hoa Đỏ,5,1,96
+394,https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/05/29/2/f/7/1/1559116004803.jpg,,../songs/18.mp3,Đồng Đội Của Tôi,5,1,97
+395,https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/05/29/2/f/7/1/1559116004803.jpg,,../songs/16.mp3,Người Chiến Sĩ Ấy,5,1,98
+396,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/14948_XuanHao_A.jpg,,../songs/11.mp3,Chào Sông Mã Anh Hùng,5,1,99
+397,https://stc-id.nixcdn.com/v11/images/avatar_default.jpg,,../songs/14.mp3,Bài Ca Bên Cánh Võng,5,1,100
+398,https://avatar-ex-swe.nixcdn.com/singer/avatar/2019/05/29/2/f/7/1/1559116004803.jpg,,../songs/3.mp3,Dấu Chân Phía Trước,5,1,101
+399,https://avatar-ex-swe.nixcdn.com/singer/avatar/2013/13685_Thanh_Nhan_A.jpg,,../songs/12.mp3,Đường Bốn Mùa Xuân,5,1,102

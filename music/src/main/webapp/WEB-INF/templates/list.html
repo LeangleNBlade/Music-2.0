@@ -1,0 +1,205 @@
+
+	
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/head::head">
+</head>
+<body>
+<div th:insert="fragments/header::header"></div>
+      <!-- header section end -->
+      <!-- movies section start -->
+      
+     <div class="movies_section layout_padding">
+     <h1 style="color: yellow; font-size: 40px; text-align: center;" th:text="'Tìm kiếm theo' +${searchValue}"></h1>
+         <div class="container">
+            <div class="movies_menu">
+               <ul th:each="cate : ${cate}">
+            
+
+               <li><a th:text="${cate.categoryName}" th:href="@{http://localhost:8080/byCategory (p=1,c=${cate.id})}"></a></li>
+                
+          
+                 
+               </ul>
+            </div>
+            <div class="movies_section_2 layout_padding">
+               <div class="movies_main">
+                  <div class="iamge_movies_main" >
+
+                   <div class="iamge_movies" th:each="songDTO,iterStat : ${list}" th:if	="${iterStat.index}<5">
+                        <div class="image_3">
+                           <img width="196px" height="285px" th:src="@{${songDTO.songIMG}}" class="image" >
+                           <div class="middle">
+                              <div class="playnow_bt"><a th:href="@{http://localhost:8080/song/song(id=${songDTO.songID})}">Play Now</a></div>
+                           </div>
+                         
+                        </div>
+                        <h1 class="code_text" th:text="${format.format(songDTO.title)}"></h1>
+                        <p class="there_text"th:text="${format.format(songDTO.artistName)}"> </p>
+                        <div class="star_icon">
+                           <ul>
+ 							  <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                
+                    
+				</div>
+               </div>
+            </div>
+                       <div class="movies_section_2 layout_padding">
+               <div class="movies_main">
+                  <div class="iamge_movies_main" >
+         
+                   <div class="iamge_movies"th:each="songDTO,iterStat : ${list}" th:if	="${iterStat.index<10 and iterStat.index>=5}">
+                        <div class="image_3">
+                           <img width="196px" height="285px" th:src="@{${songDTO.songIMG}}" class="image" >
+                           <div class="middle">
+                              <div class="playnow_bt"><a th:href="@{http://localhost:8080/song/song(id=${songDTO.songID})}">Play Now</a></div>
+                           </div>
+                         
+                        </div>
+                        <h1 class="code_text" th:text="${format.format(songDTO.title)}"></h1>
+                        <p class="there_text" th:text="${format.format(songDTO.artistName)}"></p>
+                        <div class="star_icon">
+                           <ul>
+  	 						  <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  
+
+                    
+				</div>
+               </div>
+            </div>
+                       <div class="movies_section_2 layout_padding">
+               <div class="movies_main">
+                  <div class="iamge_movies_main" >
+
+                   <div class="iamge_movies" th:each="songDTO,iterStat : ${list}" th:if	="${iterStat.index<15 and iterStat.index>=10}">
+                        <div class="image_3">
+                           <img width="196px" height="285px" th:src="@{${songDTO.songIMG}}" class="image" >
+                           <div class="middle">
+                              <div class="playnow_bt"><a th:href="@{http://localhost:8080/song/song(id=${songDTO.songID})}">Play Now</a></div>
+                           </div>
+                         
+                        </div>
+                        <h1 class="code_text" th:text="${format.format(songDTO.title)}"></h1>
+                        <p class="there_text" th:text="${format.format(songDTO.artistName)}"> </p>
+                        <div class="star_icon">
+                           <ul>
+   							  <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  
+          
+                    
+				</div>
+               </div>
+            </div>
+                       <div class="movies_section_2 layout_padding">
+               <div class="movies_main">
+                  <div class="iamge_movies_main" >
+      
+                   <div class="iamge_movies" th:each="songDTO,iterStat : ${list}" th:if	="${iterStat.index<iterStat.size and iterStat.index>=15}">
+                        <div class="image_3">
+                           <img width="196px" height="285px" th:src="@{${songDTO.songIMG}}" class="image" >
+                           <div class="middle">
+                              <div class="playnow_bt"><a th:href="@{http://localhost:8080/song/song(id=${songDTO.songID})}">Play Now</a></div>
+                           </div>
+                         
+                        </div>
+                        <h1 class="code_text" th:text="${format.format(songDTO.title)}"></h1>
+                        <p class="there_text" th:text="${format.format(songDTO.artistName)}"> </p>
+                        <div class="star_icon">
+                           <ul>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                              <li><a th:href="@{#}"><img th:src="@{../../images/star-icon.png}"></a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  
+
+                    
+				</div>
+               </div>
+               </div>
+               
+            </div>
+           <div id="login-div"></div>
+           
+           </div>
+    <div style="margin-left: 35%;float: inline-start"> <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <li class="page-item" th:classappend="${currentPage == 0 ? 'disabled' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=0)}">First</a>
+                </li>
+                <li class="page-item" th:classappend="${currentPage == 0 ? 'disabled' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${currentPage-1})}">Previous</a>
+                </li>
+                <th:block th:if="${totalPages<=5}">
+                <li class="page-item" th:each="i : ${#numbers.sequence(1, totalPages)}"
+                    th:classappend="${currentPage == i ? 'active' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${i})}" th:text="${i}"></a>
+                </li>
+                </th:block>
+                
+                <th:block th:if="${totalPages>5 and currentPage-2>0 and currentPage<totalPages-2}">
+                <li class="page-item" th:each="i : ${#numbers.sequence(currentPage-2, currentPage+2)}"
+                    th:classappend="${currentPage == i ? 'active' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${i})}" th:text="${i}"></a>
+                </li>
+                </th:block>
+                
+                <th:block th:if="${totalPages>5 and currentPage<=2 and currentPage<totalPages-2}">
+                <li class="page-item" th:each="i : ${#numbers.sequence(1, 5)}"
+                    th:classappend="${currentPage == i ? 'active' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${i})}" th:text="${i}"></a>
+                </li>
+                </th:block>
+                
+                <th:block th:if="${totalPages>5 and totalPages-currentPage<=2 }">
+                <li class="page-item" th:each="i : ${#numbers.sequence(totalPages-4, totalPages)}"
+                    th:classappend="${currentPage == i ? 'active' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${i})}" th:text="${i}"></a>
+                </li>
+                </th:block>
+              
+                <li class="page-item" th:classappend="${currentPage == totalPages - 1 ? 'disabled' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${currentPage+1})}">Next</a>
+                </li>
+                <li class="page-item" th:classappend="${currentPage == totalPages - 1 ? 'disabled' : ''}">
+                    <a class="page-link" th:href="@{${href}(p=${totalPages})}">Last</a>
+                </li>
+            </ul>
+        </nav></div>
+              <script type="text/javascript">
+              function setAction(form) {
+            	  var s=document.getElementById("page-input").value;
+            	  var i="allSongs?p="+s;
+            	  location.href = "http://localhost:8080/allSongs?p="+s;
+            	  form.action = "allSongs?p=5";
+            	 
+            	  return false;
+            	}
+             </script>
+
+      <!-- movies section end -->
+<div th:insert="fragments/footer::footer"></div>

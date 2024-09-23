@@ -1,0 +1,26 @@
+<persistence version="2.1"
+xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence_2_1.xsd">
+ 
+<persistence-unit name="music" >
+<class>com.boot.music.entity.Song</class>
+<class>com.boot.music.entity.Category</class>
+<class>com.boot.music.entity.Artist</class>
+<class>com.boot.music.entity.Region</class>
+<class>com.boot.music.entity.Role</class>
+<class>com.boot.music.entity.Account</class>
+<class>com.boot.music.entity.User</class>
+<class>com.boot.music.entity.Admin</class>
+<exclude-unlisted-classes>true</exclude-unlisted-classes>
+ 
+<properties>
+<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
+<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/music" />
+<property name="javax.persistence.jdbc.user" value="root" />
+<property name="javax.persistence.jdbc.password" value="1234" />
+
+<property name="hibernate.format_sql" value="true" />
+<property name="hibernate.use_sql_comments" value="true" />
+</properties>
+</persistence-unit>
+</persistence>

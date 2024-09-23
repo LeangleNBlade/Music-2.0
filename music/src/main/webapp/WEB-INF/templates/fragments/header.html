@@ -1,0 +1,106 @@
+<html xmlns:th="https://www.thymeleaf.org"
+      xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
+      
+<div th:fragment="header">
+      <!-- header section start -->
+<th:block ></th:block>
+      <div class="header_section">
+         <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="logo" href="index.html"><img th:src="@{../../images/logo1.png}"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+               <ul class="navbar-nav mr-auto">
+                  <li class="nav-item active">
+                     <a class="nav-link" th:href="@{http://localhost:8080/home}">Trang chủ</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" th:href="@{/allSongs?p=1}">Bài hát</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" th:href="@{tv.html}">Nghệ sĩ</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" th:href="@{celebs.html}">Billboard</a>
+                  </li>
+               </ul>
+                <div  id="search" class="search_icon"><a href="#"><img th:src="@{../images/search-icon.png}"></a></div>
+              	<div id="search2">
+              		<form style="margin-left: 2%" action="" onsubmit="return setAction1(this)" >
+              		<input  id="search-input" placeholder="Search..." type="text" size="30" onkeyup="showResult(this.value)">
+              		<div onblur="blurS()" id="res_container" style="border: none">
+              			
+              	
+              		</div>
+              		
+              		</form>
+              	
+              	</div>
+
+
+            
+               <div sec:authorize="isAuthenticated()" style="display: flex">
+                       <div class="search_icon"><a th:href="@{#}"><img th:src="@{../images/user-icon.png}"><span class="padding_left_15" th:text="${#authentication.getName()}"></span></a></div>
+                       <div class="search_icon"><a th:href="@{#}"><img th:src="@{../images/eye-icon.png}"><span class="padding_left_15">Hồ sơ</span></a></div>
+                       <div class="search_icon"><a th:href="@{/logout}"><img th:src="@{../images/logout.png}"><span class="padding_left_15">Đăng xuất</span></a></div>
+                </div>
+
+
+             <div sec:authorize="!isAuthenticated()" onclick="log()" class="search_icon"><a th:href="@{#}"><img th:src="@{../images/user-icon.png}"><span class="padding_left_15">Đăng nhập</span></a></div>
+
+ <script type="text/javascript">
+ 	function open_search_bar() {
+ 		var search= document.getElementById("bar");
+ 		
+		search.innerHTML='<form><input placeholder="Search..." type="text" size="30" onkeyup="showResult(this.value)"><div id="livesearch"></div></form>';
+		
+	}
+ </script>
+   <script type="text/javascript">
+              function setAction1(form) {
+            	  var s=document.getElementById("search-input").value;
+            	  setTimeout(function () {
+            		  location.href = "http://localhost:8080/searchBy?s="+s+"&p=1"; //will redirect to your blog page (an ex: blog.html)
+            		}, 500); 
+            	 
+            	  return false;
+            	}
+             </script>
+  <script>
+	function showResult(str) {
+  		if (str.length==0) {
+    		document.getElementById("res_container").innerHTML="";
+    		document.getElementById("res_container").style.border="0px";
+    	return;
+  	}	
+  	var xmlhttp=new XMLHttpRequest();
+  	xmlhttp.onreadystatechange=function() {
+    	if (this.readyState==4 && this.status==200) {
+      		document.getElementById("res_container").innerHTML=this.responseText;
+      		document.getElementById("res_container").style.border="1px solid #A5ACB2";
+    	}
+  	}
+  	xmlhttp.open("GET","/search?s="+str,true);
+  	xmlhttp.send();
+}
+</script>
+ <script>
+	function log() {
+		
+		var xmlhttp=new XMLHttpRequest();
+	  	xmlhttp.onreadystatechange=function() {
+	    	if (this.readyState==4 && this.status==200) {
+	    		document.getElementById("login-div").innerHTML=this.responseText;
+	      		
+	    	}
+	  	}
+	  	xmlhttp.open("GET","/loginHTML",true);
+	  	xmlhttp.send();
+}
+</script>
+ 
+            </div>
+         </nav>
+      </div>
+      <!-- header section end --></div>

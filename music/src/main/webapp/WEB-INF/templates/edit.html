@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/admin-head::admin-head">
+</head>
+<body id="page-top">
+<div id="wrapper" th:insert="fragments/admin-header::admin-header"></div>
+
+
+
+                <!-- Begin Page Content -->
+                <div style="padding-bottom: 5%" class="container-fluid">
+
+                    <!-- Page Heading -->
+                    <h1 class="h3 mb-4 text-gray-800">Update Song</h1>
+
+<div id="edit" style="z-index: 9;width: fit-content; margin: auto"> 
+ 		  <div class="bg-img">
+      <div class="content">
+
+   
+        <form method="post"  th:action="@{/admin/updateSong}" onsubmit="return isValidForm1()" >
+        
+         <div class="field">
+           	<label class="labl" >ID</label>
+            <input readonly="readonly" id="SID" name="id" type="text" style="float: right" th:value="${list[0].songID}"/>
+          </div>
+          <div id="u-error" style="height: 25px;color: #a2f125;font-weight: bold;"></div>
+          
+           <div class="field">
+           	<label class="labl" >Title</label>
+            <input name="title" type="text"  style="float: right" th:value="${list[0].title}"/>
+          </div>
+          <div id="n-error" style="height: 25px;color: #a2f125;font-weight: bold;"></div>
+          
+           <div class="field">
+           	<label class="labl" >Artist</label>
+            <input name="artist" type="text" style="float: right"  th:value="${list[0].artistName}"/>
+          </div>
+          <div id="m-error" style="height: 25px;color: #a2f125;font-weight: bold;"></div>
+          
+          
+          
+          <div class="field space" style="margin-top: 0px">
+            	<label class="labl" >Image</label>
+            <input type="text"  name="img" class="pass-key" style="float: right"  th:value="${list[0].songIMG}">
+          </div>
+          <div id="p-error" style="height: 25px;color: #a2f125;font-weight: bold;"></div>           
+          
+          
+           <div class="field space" style="margin-top: 0px">
+            	<label class="labl" >Path</label>
+            <input type="text"  name="mp3" class="pass-key"  style="float: right" th:value="${list[0].mp3_link}">
+          </div>
+          <div id="p-error" style="height: 25px;color: #a2f125;font-weight: bold;"></div>           
+     
+      <div class="field space" style="margin-top: 0px">
+            	<label class="labl" >Category</label>
+            	<select style="width: 73%" name="cate">
+            		<option selected="selected"
+            		th:text="${list[0].cateID.categoryName}"
+            		 th:value="${list[0].cateID.categoryName}"></option>
+            	<th:block th:each="cate:${cate}">
+            		<option th:text="${cate.categoryName}"
+            		th:value="${cate.categoryName}"></option>
+            	</th:block>
+            	</select>
+           
+          </div>
+          <div id="p-error" style="height: 25px;color: #a2f125;font-weight: bold;"></div>           
+     
+      <div class="field space" style="margin-top: 0px">
+            	<label class="labl" >Region</label>
+            <input type="text" name="reg" class="pass-key"  style="float: right" th:value="${list[0].regionID.country}">
+          </div>
+          <div id="p-error" style="height: 25px;color: #a2f125;font-weight: bold;"></div>           
+
+          
+          <div class="field">
+            <input style="float:right" id="login-submit" type="submit" value="Update">
+          </div>
+        </form>
+       
+      </div>
+   </div>
+ 
+ </div>
+                </div>
+                <!-- /.container-fluid -->
+
+  
+            <!-- End of Main Content -->
+      <div th:insert="fragments/admin-footer::admin-footer"></div>
